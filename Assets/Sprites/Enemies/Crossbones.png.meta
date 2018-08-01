@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 70012a8777f9f514f8bf20bd5e4e020b
+timeCreated: 1471493643
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crossbones_Run_00
+    21300002: Crossbones_Run_01
+    21300004: Crossbones_Run_02
+    21300006: Crossbones_Run_03
+    21300008: Crossbones_Run_04
+    21300010: Crossbones_Run_05
+    21300012: Crossbones_Idle_00
+    21300014: Crossbones_Idle_01x
+    21300016: Crossbones_Idle_02
+    21300018: Crossbones_Idle_03
+    21300020: Crossbones_Idle_04
+    21300022: Crossbones_Idle_06
+    21300024: Crossbones_Idle_05
+    21300026: Crossbones_Idle_07
+    21300028: Crossbones_Idle_08
+    21300030: Crossbones_Idle_01
+    21300032: Crossbones_Melee_00
+    21300034: Crossbones_Melee_01
+    21300036: Crossbones_Melee_02
+    21300038: Crossbones_Damage_00
+    21300040: Crossbones_Death_00
+    21300042: Crossbones_Death_01
+    21300044: Crossbones_Death_02
+    21300046: Crossbones_Death_03
+    21300048: Crossbones_Death_04
+    21300050: Crossbones_Knockout_00
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Crossbones_Run_00
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 358
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -18, y: -26}
+        - {x: -17, y: -28}
+        - {x: -2, y: -28}
+        - {x: 18, y: -17}
+        - {x: 18, y: 28}
+    - name: Crossbones_Run_01
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 358
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 22.5}
+        - {x: 18, y: 29.5}
+        - {x: -18, y: 29.5}
+        - {x: -18, y: -24.5}
+        - {x: -17, y: -29.5}
+        - {x: 8, y: -29.5}
+        - {x: 15, y: -20.5}
+        - {x: 15, y: 1.5}
+        - {x: 11, y: 12.5}
+    - name: Crossbones_Run_02
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 357
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -23.5}
+        - {x: -17, y: -27.5}
+        - {x: 22, y: -27.5}
+        - {x: 22, y: 10.5}
+        - {x: 17, y: 27.5}
+        - {x: -19, y: 27.5}
+        - {x: -22, y: 18.5}
+    - name: Crossbones_Run_03
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 359
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -22, y: 21}
+        - {x: -22, y: -20}
+        - {x: -20, y: -24}
+        - {x: -10, y: -28}
+        - {x: 6, y: -28}
+        - {x: 15, y: -12}
+        - {x: 22, y: 4}
+        - {x: 22, y: 28}
+    - name: Crossbones_Run_04
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 358
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 29.5}
+        - {x: -19, y: 13.5}
+        - {x: -19, y: 0.5}
+        - {x: -18, y: -0.5}
+        - {x: -3, y: -29.5}
+        - {x: 16, y: -29.5}
+        - {x: 19, y: 0.5}
+        - {x: 19, y: 29.5}
+    - name: Crossbones_Run_05
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 358
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 13}
+        - {x: 14, y: 24}
+        - {x: 9, y: 27}
+        - {x: -17, y: 27}
+        - {x: -20, y: 19}
+        - {x: -20, y: -12}
+        - {x: -17, y: -21}
+        - {x: -16, y: -23}
+        - {x: -5, y: -27}
+        - {x: 20, y: -27}
+        - {x: 20, y: -11}
+        - {x: 14, y: 3}
+    - name: Crossbones_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 26.5}
+        - {x: -22.5, y: 26.5}
+        - {x: -22.5, y: -28.5}
+        - {x: 13.5, y: -28.5}
+        - {x: 13.5, y: -7.5}
+        - {x: 4.5, y: 24.5}
+    - name: Crossbones_Idle_01x
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 489
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 22.5}
+        - {x: -11.5, y: 22.5}
+        - {x: -17.5, y: 18.5}
+        - {x: -17.5, y: -21.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 17.5, y: -28.5}
+        - {x: 17.5, y: 17.5}
+        - {x: 16.5, y: 19.5}
+    - name: Crossbones_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 488
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -20.5}
+        - {x: -15.5, y: -28.5}
+        - {x: 19.5, y: -28.5}
+        - {x: 19.5, y: 3.5}
+        - {x: 18.5, y: 20.5}
+        - {x: 15.5, y: 28.5}
+        - {x: -11.5, y: 28.5}
+        - {x: -19.5, y: 20.5}
+    - name: Crossbones_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 488
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -28.955994}
+        - {x: 18, y: -28.955994}
+        - {x: 18, y: 14.044006}
+        - {x: 11, y: 47.044006}
+        - {x: -18, y: 47.044006}
+    - name: Crossbones_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 488
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 47.044006}
+        - {x: -18, y: -28.955994}
+        - {x: 18, y: -28.955994}
+        - {x: 18, y: 1.0440063}
+        - {x: 17, y: 16.044006}
+        - {x: 3, y: 40.044006}
+        - {x: -5, y: 47.044006}
+    - name: Crossbones_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 488
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 28.5}
+        - {x: -17.5, y: -28.5}
+        - {x: 17.5, y: -28.5}
+        - {x: 17.5, y: 25.5}
+        - {x: 10.5, y: 28.5}
+    - name: Crossbones_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 488
+        width: 36
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 44.044006}
+        - {x: -18, y: 44.044006}
+        - {x: -18, y: -28.955994}
+        - {x: 18, y: -28.955994}
+        - {x: 18, y: 2.0440063}
+        - {x: 12, y: 21.044006}
+    - name: Crossbones_Idle_07
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 293
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 28.5}
+        - {x: -18, y: 28.5}
+        - {x: -18, y: -28.5}
+        - {x: 18, y: -28.5}
+        - {x: 18, y: 22.5}
+        - {x: 15, y: 27.5}
+    - name: Crossbones_Idle_08
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 293
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28.5}
+        - {x: -18, y: 18.5}
+        - {x: -18, y: -28.5}
+        - {x: 18, y: -28.5}
+        - {x: 18, y: 5.5}
+        - {x: 16, y: 23.5}
+        - {x: 7, y: 28.5}
+    - name: Crossbones_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 293
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21.5}
+        - {x: -16.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: 21.5}
+    - name: Crossbones_Melee_00
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 293
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -0.5}
+        - {x: -17, y: -0.5}
+        - {x: -19, y: -8.5}
+        - {x: -21, y: -28.5}
+        - {x: 24, y: -28.5}
+        - {x: 24, y: 1.5}
+        - {x: 21, y: 21.5}
+        - {x: 12, y: 28.5}
+        - {x: -17, y: 28.5}
+        - {x: -24, y: 22.5}
+    - name: Crossbones_Melee_01
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 293
+        width: 75
+        height: 57
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 20.5}
+        - {x: -75, y: -18.5}
+        - {x: -71, y: -28.5}
+        - {x: 0, y: -28.5}
+        - {x: 0, y: -4.5}
+        - {x: -29, y: 20.5}
+    - name: Crossbones_Melee_02
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 293
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14.5}
+        - {x: 3, y: 26.5}
+        - {x: -10, y: 26.5}
+        - {x: -26, y: 21.5}
+        - {x: -26, y: -2.5}
+        - {x: -17, y: -28.5}
+        - {x: 26, y: -28.5}
+        - {x: 26, y: -14.5}
+    - name: Crossbones_Damage_00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32}
+        - {x: -19.5, y: 28}
+        - {x: -19.5, y: -14}
+        - {x: -9.5, y: -32}
+        - {x: 4.5, y: -32}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 29}
+        - {x: 13.5, y: 32}
+    - name: Crossbones_Death_00
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 31}
+        - {x: 3, y: 28}
+        - {x: -27, y: 10}
+        - {x: -27, y: -1}
+        - {x: -19, y: -9}
+        - {x: -15, y: -8}
+        - {x: -21, y: -25}
+        - {x: -18, y: -31}
+        - {x: 15, y: -31}
+        - {x: 27, y: -9}
+        - {x: 27, y: 26}
+        - {x: 15, y: 31}
+    - name: Crossbones_Death_01
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17.5}
+        - {x: -25, y: 1.5}
+        - {x: -25, y: -11.5}
+        - {x: -19, y: -17.5}
+        - {x: -7, y: -25.5}
+        - {x: 17, y: -25.5}
+        - {x: 26, y: -21.5}
+        - {x: 26, y: -1.5}
+        - {x: 9, y: 17.5}
+    - name: Crossbones_Death_02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 1.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -24.5, y: -10.5}
+        - {x: -24.5, y: -31.5}
+        - {x: 24.5, y: -31.5}
+        - {x: 24.5, y: -2.5}
+        - {x: 15.5, y: 1.5}
+    - name: Crossbones_Death_03
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 1.5}
+        - {x: -23.5, y: -2.5}
+        - {x: -23.5, y: -30.5}
+        - {x: -22.5, y: -31.5}
+        - {x: 22.5, y: -31.5}
+        - {x: 23.5, y: -28.5}
+        - {x: 23.5, y: -2.5}
+        - {x: 21.5, y: 1.5}
+    - name: Crossbones_Death_04
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -8.5}
+        - {x: -31.5, y: -14.5}
+        - {x: -31.5, y: -30.5}
+        - {x: -30.5, y: -31.5}
+        - {x: 15.5, y: -31.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 31.5, y: -17.5}
+        - {x: 7.5, y: -8.5}
+    - name: Crossbones_Knockout_00
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 1.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -21.5, y: -31.5}
+        - {x: 23.5, y: -31.5}
+        - {x: 23.5, y: -12.5}
+        - {x: 17.5, y: 1.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

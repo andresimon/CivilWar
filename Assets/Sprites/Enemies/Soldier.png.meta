@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: 5296b9ca564e3f641b276bf733ddf6d2
+timeCreated: 1467655949
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Soldier_Melee_01
+    21300002: Soldier_1
+    21300004: Soldier_Shoot_01
+    21300006: Soldier_3
+    21300008: Soldier_Shoot_02
+    21300010: Soldier_5
+    21300012: Soldier_Shoot_03
+    21300014: Soldier_Shoot_00
+    21300016: Soldier_8
+    21300018: Soldier_Idle_00
+    21300020: Soldier_10
+    21300022: Soldier_11
+    21300024: Soldier_12
+    21300026: Soldier_13
+    21300028: Soldier_Run_00
+    21300030: Soldier_Run_01
+    21300032: Soldier_Run_02
+    21300034: Soldier_Run_03
+    21300036: Soldier_Run_04
+    21300038: Soldier_Run_05
+    21300040: Soldier_25
+    21300042: Soldier_26
+    21300044: Soldier_27
+    21300046: Soldier_28
+    21300048: Soldier_32
+    21300050: Soldier_34
+    21300052: Soldier_35
+    21300054: Soldier_36
+    21300056: Soldier_37
+    21300058: Soldier_39
+    21300060: Soldier_40
+    21300062: Soldier_42
+    21300064: Soldier_43
+    21300066: Soldier_Damage_00
+    21300068: Soldier_Death_00
+    21300070: Soldier_Death_01
+    21300072: Soldier_Death_02
+    21300074: Soldier_Death03
+    21300076: Soldier_51
+    21300078: Soldier_Death_04
+    21300080: Soldier_Death_05
+    21300082: Soldier_Death_06
+    21300084: Soldier_Death_07
+    21300086: Soldier_58
+    21300088: Soldier_Melee_00
+    21300090: Soldier_Melee_02
+    21300092: Soldier_Death_03
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Soldier_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 684
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -5}
+        - {x: 45, y: 1}
+        - {x: 45, y: 18}
+        - {x: 35, y: 34}
+        - {x: 7, y: 48}
+        - {x: -28, y: 48}
+        - {x: -47, y: 38}
+        - {x: -47, y: -48}
+        - {x: -5, y: -48}
+        - {x: -5, y: -44}
+        - {x: 0, y: -19}
+      - - {x: 10, y: 0}
+        - {x: 13, y: 1}
+        - {x: 13, y: 4}
+        - {x: 10, y: 5}
+        - {x: 8, y: 3}
+      - - {x: 42, y: 20}
+        - {x: 45, y: 21}
+        - {x: 45, y: 24}
+        - {x: 42, y: 25}
+        - {x: 40, y: 23}
+    - name: Soldier_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 684
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 48}
+        - {x: -27, y: 48}
+        - {x: -47, y: 42}
+        - {x: -47, y: -48}
+        - {x: -4, y: -48}
+        - {x: 5, y: -26}
+        - {x: 47, y: 2}
+        - {x: 47, y: 17}
+    - name: Soldier_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 684
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 48}
+        - {x: -47, y: 32}
+        - {x: -47, y: -48}
+        - {x: 6, y: -48}
+        - {x: 25, y: -19}
+        - {x: 25, y: 26}
+        - {x: 1, y: 48}
+    - name: Soldier_Shoot_00
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 684
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 48}
+        - {x: -47, y: 34}
+        - {x: -47, y: -48}
+        - {x: 1, y: -48}
+        - {x: 47, y: 1}
+        - {x: 47, y: 34}
+        - {x: 25, y: 48}
+      - - {x: 43, y: 2}
+        - {x: 46, y: 3}
+        - {x: 46, y: 6}
+        - {x: 43, y: 7}
+        - {x: 41, y: 5}
+    - name: Soldier_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 575
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -26}
+        - {x: -20, y: -33}
+        - {x: -22, y: -43}
+        - {x: -20, y: -48}
+        - {x: 1, y: -48}
+        - {x: 29, y: -18}
+        - {x: 29, y: 38}
+        - {x: 22, y: 48}
+        - {x: -27, y: 48}
+        - {x: -44, y: 36}
+        - {x: -45, y: 32}
+        - {x: -45, y: -48}
+        - {x: -25, y: -48}
+        - {x: -23, y: -45}
+        - {x: -21, y: -31}
+        - {x: -18, y: -27}
+    - name: Soldier_Run_00
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 458
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 53}
+        - {x: -35, y: 31}
+        - {x: -35, y: -46}
+        - {x: -9, y: -46}
+        - {x: 13, y: -34}
+        - {x: 39, y: 14}
+        - {x: 39, y: 34}
+        - {x: 13, y: 53}
+    - name: Soldier_Run_01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 458
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 53}
+        - {x: -41, y: 40}
+        - {x: -41, y: -28}
+        - {x: -14, y: -47}
+        - {x: 28, y: -47}
+        - {x: 41, y: -14}
+        - {x: 41, y: 41}
+        - {x: 26, y: 53}
+    - name: Soldier_Run_02
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 458
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 53}
+        - {x: -35, y: 42}
+        - {x: -41, y: -2}
+        - {x: -41, y: -31}
+        - {x: 2, y: -49}
+        - {x: 13, y: -49}
+        - {x: 29, y: -46}
+        - {x: 41, y: 6}
+        - {x: 41, y: 29}
+        - {x: 12, y: 53}
+    - name: Soldier_Run_03
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 459
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 53}
+        - {x: -31, y: -53}
+        - {x: 3, y: -53}
+        - {x: 41, y: -12}
+        - {x: 41, y: 44}
+        - {x: 36, y: 53}
+    - name: Soldier_Run_04
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 457
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 53}
+        - {x: -12, y: 53}
+        - {x: -28, y: 37}
+        - {x: -33, y: 28}
+        - {x: -32, y: 4}
+        - {x: -25, y: -1}
+        - {x: -37, y: -17}
+        - {x: -37, y: -19}
+        - {x: -25, y: -42}
+        - {x: 4, y: -53}
+        - {x: 28, y: -53}
+        - {x: 22, y: -38}
+        - {x: 41, y: 15}
+        - {x: 41, y: 28}
+    - name: Soldier_Run_05
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 459
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 53}
+        - {x: -16, y: 52}
+        - {x: -34, y: 31}
+        - {x: -35, y: 23}
+        - {x: -35, y: -36}
+        - {x: -15, y: -53}
+        - {x: 14, y: -53}
+        - {x: 41, y: 3}
+        - {x: 41, y: 44}
+        - {x: 29, y: 53}
+      - - {x: -36, y: 28}
+        - {x: -33, y: 29}
+        - {x: -33, y: 32}
+        - {x: -36, y: 33}
+        - {x: -38, y: 31}
+    - name: Soldier_Damage_00
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 111
+        width: 80
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 0}
+        - {x: 8, y: 37}
+        - {x: -4, y: 48}
+        - {x: -50, y: 48}
+        - {x: -64, y: 42}
+        - {x: -64, y: -47}
+        - {x: -62, y: -48}
+        - {x: -42, y: -48}
+        - {x: -42, y: -45}
+        - {x: -35, y: -48}
+        - {x: -14, y: -48}
+    - name: Soldier_Death_00
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 111
+        width: 92
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.600006, y: -2}
+        - {x: -18.600006, y: -1}
+        - {x: -24.600006, y: -1}
+        - {x: -22.600006, y: 1}
+        - {x: -17.600006, y: -1}
+        - {x: -16.600006, y: -1}
+        - {x: -7.600006, y: 4}
+        - {x: 11.399994, y: 21}
+        - {x: 11.399994, y: 39}
+        - {x: -25.600006, y: 48}
+        - {x: -55.600006, y: 48}
+        - {x: -59.600006, y: 43}
+        - {x: -73.600006, y: 24}
+        - {x: -73.600006, y: 3}
+        - {x: -69.600006, y: -12}
+        - {x: -24.600006, y: -48}
+        - {x: -15.600006, y: -48}
+        - {x: -2.600006, y: -40}
+        - {x: 3.399994, y: -17}
+        - {x: -0.6000061, y: -13}
+    - name: Soldier_Death_01
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 112
+        width: 97
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.399994, y: 12}
+        - {x: -7.600006, y: 21}
+        - {x: -22.600006, y: 6}
+        - {x: -27.600006, y: 0}
+        - {x: -25.600006, y: 4}
+        - {x: -24.600006, y: 7}
+        - {x: -41.600006, y: 38}
+        - {x: -55.600006, y: 38}
+        - {x: -77.600006, y: -5}
+        - {x: -77.600006, y: -36}
+        - {x: -58.600006, y: -48}
+        - {x: -24.600006, y: -48}
+        - {x: 19.399994, y: -12}
+        - {x: 19.399994, y: 8}
+      - - {x: 8.399994, y: 4}
+        - {x: 11.399994, y: 5}
+        - {x: 11.399994, y: 8}
+        - {x: 8.399994, y: 9}
+        - {x: 6.399994, y: 7}
+    - name: Soldier_Death_02
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 112
+        width: 97
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.399994, y: 4}
+        - {x: 7.399994, y: 4}
+        - {x: 3.399994, y: 0}
+        - {x: 6.399994, y: 5}
+        - {x: 6.399994, y: 8}
+        - {x: -3.600006, y: 20}
+        - {x: -12.600006, y: 17}
+        - {x: -21.600006, y: 6}
+        - {x: -25.600006, y: 2}
+        - {x: -26.600006, y: -1}
+        - {x: -30.600006, y: -1}
+        - {x: -24.600006, y: 2}
+        - {x: -21.600006, y: 31}
+        - {x: -34.600006, y: 38}
+        - {x: -70.600006, y: 38}
+        - {x: -77.600006, y: 9}
+        - {x: -77.600006, y: -34}
+        - {x: -57.600006, y: -48}
+        - {x: -23.600006, y: -48}
+        - {x: 19.399994, y: -13}
+        - {x: 19.399994, y: -8}
+        - {x: 18.399994, y: -6}
+      - - {x: -63.600006, y: 10}
+        - {x: -60.600006, y: 11}
+        - {x: -60.600006, y: 14}
+        - {x: -63.600006, y: 15}
+        - {x: -65.600006, y: 13}
+    - name: Soldier_Death_03
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 112
+        width: 97
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.4000244, y: 4}
+        - {x: 5.4000244, y: 4}
+        - {x: 1.4000244, y: 0}
+        - {x: 5.4000244, y: 6}
+        - {x: 5.4000244, y: 7}
+        - {x: -6.5999756, y: 19}
+        - {x: -9.599976, y: 20}
+        - {x: -24.599976, y: 7}
+        - {x: -27.599976, y: 1}
+        - {x: -23.599976, y: 10}
+        - {x: -42.599976, y: 37}
+        - {x: -43.599976, y: 38}
+        - {x: -57.599976, y: 38}
+        - {x: -77.599976, y: 5}
+        - {x: -77.599976, y: -29}
+        - {x: -58.599976, y: -48}
+        - {x: -26.599976, y: -48}
+        - {x: 17.400024, y: -13}
+        - {x: 17.400024, y: -8}
+        - {x: 15.400024, y: -2}
+    - name: Soldier_Death_04
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 98
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.600006, y: -28}
+        - {x: 19.600006, y: -9}
+        - {x: 16.600006, y: -9}
+        - {x: 18.600006, y: -1}
+        - {x: 19.600006, y: 5}
+        - {x: 19.600006, y: 19}
+        - {x: 11.600006, y: 23}
+        - {x: -26.399994, y: 40}
+        - {x: -48.399994, y: 40}
+        - {x: -73.399994, y: 16}
+        - {x: -78.399994, y: 9}
+        - {x: -78.399994, y: -13}
+        - {x: -51.399994, y: -40}
+        - {x: -37.399994, y: -40}
+        - {x: -23.399994, y: -36}
+        - {x: -15.399994, y: -26}
+        - {x: -16.399994, y: -24}
+        - {x: 13.600006, y: -30}
+    - name: Soldier_Death_05
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 98
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.399994, y: 43}
+        - {x: -78.399994, y: 17}
+        - {x: -78.399994, y: -25}
+        - {x: -61.399994, y: -36}
+        - {x: -5.399994, y: -36}
+        - {x: 19.600006, y: -31}
+        - {x: 19.600006, y: 43}
+      - - {x: -45.399994, y: 27}
+        - {x: -42.399994, y: 28}
+        - {x: -42.399994, y: 31}
+        - {x: -45.399994, y: 32}
+        - {x: -47.399994, y: 30}
+    - name: Soldier_Death_06
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 15
+        width: 98
+        height: 96
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.399994, y: 28}
+        - {x: -78.399994, y: 8}
+        - {x: -78.399994, y: -25}
+        - {x: -60.399994, y: -48}
+        - {x: 6.600006, y: -48}
+        - {x: 19.600006, y: -45}
+        - {x: 19.600006, y: 20}
+        - {x: -2.399994, y: 28}
+    - name: Soldier_Death_07
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 38
+        width: 109
+        height: 49
+      alignment: 9
+      pivot: {x: 0.8, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.7999878, y: 2.9000015}
+        - {x: -44.200012, y: 2.9000015}
+        - {x: -87.20001, y: -11.099998}
+        - {x: -87.20001, y: -35.1}
+        - {x: -84.20001, y: -44.1}
+        - {x: 6.799988, y: -44.1}
+        - {x: 21.799988, y: -32.1}
+        - {x: 21.799988, y: -10.099998}
+        - {x: 12.799988, y: -1.0999985}
+      - - {x: -70.20001, y: -3.0999985}
+        - {x: -71.20001, y: -5.0999985}
+        - {x: -70.20001, y: -8.099998}
+        - {x: -66.20001, y: -8.099998}
+        - {x: -63.200012, y: -7.0999985}
+        - {x: -63.200012, y: -4.0999985}
+        - {x: -65.20001, y: -3.0999985}
+    - name: Soldier_Melee_01
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 576
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 47.5}
+        - {x: -47, y: 27.5}
+        - {x: -47, y: -29.5}
+        - {x: -43, y: -47.5}
+        - {x: 16, y: -47.5}
+        - {x: 47, y: -2.5}
+        - {x: 47, y: 44.5}
+        - {x: 46, y: 47.5}
+    - name: Soldier_Melee_00
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 576
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -19.5}
+        - {x: 18, y: -14.5}
+        - {x: 8, y: -5.5}
+        - {x: 18, y: 0.5}
+        - {x: 20, y: 3.5}
+        - {x: 20, y: 18.5}
+        - {x: 8, y: 47.5}
+        - {x: -22, y: 47.5}
+        - {x: -47, y: 21.5}
+        - {x: -47, y: -18.5}
+        - {x: -43, y: -47.5}
+        - {x: 2, y: -47.5}
+        - {x: 2, y: -44.5}
+        - {x: -2, y: -40.5}
+      - - {x: 15, y: -4.5}
+        - {x: 18, y: -3.5}
+        - {x: 18, y: -0.5}
+        - {x: 15, y: 0.5}
+        - {x: 13, y: -1.5}
+    - name: Soldier_Melee_02
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 576
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -47.5}
+        - {x: 19, y: -47.5}
+        - {x: 47, y: -6.5}
+        - {x: 47, y: 47.5}
+        - {x: -34, y: 47.5}
+        - {x: -47, y: 44.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 0a9996991d675d7469dc5690015adff0
+timeCreated: 1469131011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CaptainAmerica_Damage_00
+    21300002: CaptainAmerica_Death_01
+    21300004: CaptainAmerica_Death_02
+    21300006: CaptainAmerica_Attack2_00
+    21300008: CaptainAmerica_Attack2_02
+    21300010: CaptainAmerica_Attack2_01
+    21300012: CaptainAmerica_Attack2_03
+    21300014: CaptainAmerica_Attack2_04
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CaptainAmerica_Damage_00
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 119
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 35}
+        - {x: -21, y: 35}
+        - {x: -24, y: 27}
+        - {x: -24, y: -32}
+        - {x: -21, y: -42}
+        - {x: 30, y: -42}
+        - {x: 32, y: -40}
+        - {x: 32, y: 31}
+    - name: CaptainAmerica_Death_01
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 117
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 8.5}
+        - {x: -37.5, y: 8.5}
+        - {x: -37.5, y: -31.5}
+        - {x: -22.5, y: -43.5}
+        - {x: -15.5, y: -43.5}
+        - {x: -10.5, y: -40.5}
+        - {x: -9.5, y: -35.5}
+        - {x: 38.5, y: -39.5}
+        - {x: 38.5, y: 1.5}
+    - name: CaptainAmerica_Death_02
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 118
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -8.5}
+        - {x: -44.5, y: -15.5}
+        - {x: -44.5, y: -43.5}
+        - {x: 40.5, y: -43.5}
+        - {x: 44.5, y: -41.5}
+        - {x: 44.5, y: -20.5}
+        - {x: 23.5, y: -8.5}
+    - name: CaptainAmerica_Attack2_00
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 503
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -47}
+        - {x: 29, y: -47}
+        - {x: 29, y: 30}
+        - {x: 28, y: 33}
+        - {x: -4, y: 33}
+        - {x: -30, y: 26}
+        - {x: -30, y: 4}
+        - {x: -27, y: -1}
+        - {x: -27, y: -25}
+        - {x: -25, y: -47}
+        - {x: -8, y: -47}
+        - {x: -4, y: -40}
+        - {x: 0, y: -31}
+        - {x: 8, y: -46}
+    - name: CaptainAmerica_Attack2_02
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 503
+        width: 74
+        height: 94
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: -47}
+        - {x: 74, y: -27}
+        - {x: 74, y: 23}
+        - {x: 12, y: 23}
+        - {x: 7, y: 13}
+        - {x: 0, y: -37}
+        - {x: 0, y: -45}
+        - {x: 3, y: -47}
+        - {x: 18, y: -47}
+        - {x: 33, y: -26}
+        - {x: 39, y: -45}
+        - {x: 41, y: -47}
+    - name: CaptainAmerica_Attack2_01
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 503
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -47}
+        - {x: 30, y: 8}
+        - {x: 25, y: 40}
+        - {x: -2, y: 40}
+        - {x: -8, y: 31}
+        - {x: -26, y: -23}
+        - {x: -26, y: -47}
+        - {x: -9, y: -47}
+        - {x: -1, y: -35}
+        - {x: 12, y: -47}
+    - name: CaptainAmerica_Attack2_03
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 503
+        width: 74
+        height: 94
+      alignment: 9
+      pivot: {x: 0.16, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.16, y: 26}
+        - {x: 10.16, y: 19}
+        - {x: 9.16, y: 5}
+        - {x: -0.84000015, y: -16}
+        - {x: -0.84000015, y: -47}
+        - {x: 54.16, y: -47}
+        - {x: 62.16, y: -31}
+        - {x: 62.16, y: 16}
+        - {x: 60.16, y: 26}
+    - name: CaptainAmerica_Attack2_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -36}
+        - {x: -3, y: -41}
+        - {x: 11, y: -47}
+        - {x: 20, y: -47}
+        - {x: 24, y: -37}
+        - {x: 24, y: -10}
+        - {x: 23, y: -5}
+        - {x: 15, y: -2}
+        - {x: 12, y: -2}
+        - {x: 14, y: -2}
+        - {x: 19, y: 0}
+        - {x: 24, y: 8}
+        - {x: 24, y: 18}
+        - {x: 21, y: 24}
+        - {x: -3, y: 24}
+        - {x: -28, y: -15}
+        - {x: -28, y: -47}
+        - {x: -13, y: -47}
+        - {x: -13, y: -44}
+        - {x: -3, y: -38}
+        - {x: 5, y: -30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1531 @@
+fileFormatVersion: 2
+guid: c6ccce560efc03447a5d221357ff908e
+timeCreated: 1469129506
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CaptainAmerica_Picture_00
+    21300002: CaptainAmerica 01_1
+    21300004: CaptainAmerica 01_2
+    21300006: CaptainAmerica 01_3
+    21300008: CaptainAmerica 01_4
+    21300010: CaptainAmerica_Shield_Idle_00
+    21300012: CaptainAmerica_Shield_Idle_01
+    21300014: CaptainAmerica_Shield_Idle_02
+    21300016: CaptainAmerica_Shield_Idle_03
+    21300018: CaptainAmerica 01_9
+    21300020: CaptainAmerica 01_10
+    21300022: CaptainAmerica 01_11
+    21300024: CaptainAmerica 01_12
+    21300026: CaptainAmerica 01_13
+    21300028: CaptainAmerica 01_14
+    21300030: CaptainAmerica_Shield_Walk_00
+    21300032: CaptainAmerica_Shield_Walk_01
+    21300034: CaptainAmerica_Shield_Walk_02
+    21300036: CaptainAmerica_Shield_Walk_03
+    21300038: CaptainAmerica_Shield_Walk_04
+    21300040: CaptainAmerica_Shield_Walk_05
+    21300042: CaptainAmerica_Shield_Walk_06
+    21300044: CaptainAmerica 01_22
+    21300046: CaptainAmerica 01_23
+    21300048: CaptainAmerica_Shield_JumpAttack_00
+    21300050: CaptainAmerica_Shield_JumpAttack_01
+    21300052: CaptainAmerica_TheShield_Vertical
+    21300054: CaptainAmerica 01_27
+    21300056: CaptainAmerica 01_28
+    21300058: CaptainAmerica 01_29
+    21300060: CaptainAmerica 01_30
+    21300062: CaptainAmerica 01_31
+    21300064: CaptainAmerica 01_32
+    21300066: CaptainAmerica 01_33
+    21300068: CaptainAmerica_Shiled_Block_00
+    21300070: CaptainAmerica_Shiled_Block_01
+    21300072: CaptainAmerica 01_36
+    21300074: CaptainAmerica 01_37
+    21300076: CaptainAmerica 01_38
+    21300078: CaptainAmerica 01_39
+    21300080: CaptainAmerica 01_40
+    21300082: CaptainAmerica 01_41
+    21300084: CaptainAmerica 01_42
+    21300086: CaptainAmerica 01_43
+    21300088: CaptainAmerica 01_44
+    21300090: CaptainAmerica 01_45
+    21300092: CaptainAmerica 01_46
+    21300094: CaptainAmerica 01_47
+    21300096: CaptainAmerica_TheShield_Horizontal
+    21300098: CaptainAmerica_Shield_Attack1_00
+    21300100: CaptainAmerica_Shield_Attack1_01
+    21300102: CaptainAmerica_Shield_Attack1_02
+    21300104: CaptainAmerica_Shield_Attack1_03
+    21300106: CaptainAmerica_Shield_Damage_00
+    21300108: CaptainAmerica_Shield_Death_01
+    21300110: CaptainAmerica_Shield_Death_02
+    21300112: CaptainAmerica 01_56
+    21300114: CaptainAmerica 01_57
+    21300116: CaptainAmerica_Throw_00
+    21300118: CaptainAmerica_Throw_01
+    21300120: CaptainAmerica_Throw_02
+    21300122: CaptainAmerica 01_61
+    21300124: CaptainAmerica 01_62
+    21300126: CaptainAmerica 01_63
+    21300128: CaptainAmerica 01_64
+    21300130: CaptainAmerica 01_65
+    21300132: CaptainAmerica 01_66
+    21300134: CaptainAmerica 01_67
+    21300136: CaptainAmerica 01_68
+    21300138: CaptainAmerica 01_69
+    21300140: CaptainAmerica 01_70
+    21300142: CaptainAmerica_Throw_03
+    21300144: CaptainAmerica 01_72
+    21300146: CaptainAmerica 01_73
+    21300148: CaptainAmerica 01_74
+    21300150: CaptainAmerica 01_75
+    21300152: CaptainAmerica 01_76
+    21300154: CaptainAmerica 01_77
+    21300156: CaptainAmerica 01_78
+    21300158: CaptainAmerica 01_79
+    21300160: CaptainAmerica 01_80
+    21300162: CaptainAmerica 01_81
+    21300164: CaptainAmerica 01_82
+    21300166: CaptainAmerica 01_83
+    21300168: CaptainAmerica 01_84
+    21300170: CaptainAmerica 01_85
+    21300172: CaptainAmerica 01_86
+    21300174: CaptainAmerica_Idle_00
+    21300176: CaptainAmerica_Idle_01
+    21300178: CaptainAmerica 01_89
+    21300180: CaptainAmerica 01_90
+    21300182: CaptainAmerica 01_91
+    21300184: CaptainAmerica 01_92
+    21300186: CaptainAmerica 01_93
+    21300188: CaptainAmerica 01_94
+    21300190: CaptainAmerica 01_95
+    21300192: CaptainAmerica 01_96
+    21300194: CaptainAmerica_JumpLand_00
+    21300196: CaptainAmerica_JumpLand_01
+    21300198: CaptainAmerica_JumpLand_02
+    21300200: CaptainAmerica_JumpAttack_00
+    21300202: CaptainAmerica_JumpAttack_01
+    21300204: CaptainAmerica_Shield_Jump_01
+    21300206: CaptainAmerica_Shield_Jump_02
+    21300208: CaptainAmerica_Shield_Land_00
+    21300210: CaptainAmerica_Shield_Jump_00
+    21300212: CaptainAmerica_Shield_Land_01
+    21300214: CaptainAmerica_Shield_Land_02
+    21300216: CaptainAmerica_Shield_Attack2_00
+    21300218: CaptainAmerica_Shield_Attack2_01
+    21300220: CaptainAmerica_Shield_Attack2_02
+    21300222: CaptainAmerica_Shield_Attack2_03
+    21300224: CaptainAmerica_Shield_Attack2_04
+    21300226: CaptainAmerica_Shield_Kick_00
+    21300228: CaptainAmerica_Shield_Kick_01
+    21300230: CaptainAmerica_Shield_Kick_02
+    21300232: CaptainAmerica_Shield_Kick_03
+    21300234: CaptainAmerica_Walk_00
+    21300236: CaptainAmerica_Walk_01
+    21300238: CaptainAmerica_Walk_02
+    21300240: CaptainAmerica_Walk_03
+    21300242: CaptainAmerica_Walk_04
+    21300244: CaptainAmerica 01_122
+    21300246: CaptainAmerica 01_123
+    21300248: CaptainAmerica 01_124
+    21300250: CaptainAmerica 01_125
+    21300252: CaptainAmerica 01_126
+    21300254: CaptainAmerica 01_127
+    21300256: CaptainAmerica 01_128
+    21300258: CaptainAmerica 01_129
+    21300260: CaptainAmerica_Attack1_00
+    21300262: CaptainAmerica_Attack1_01
+    21300264: CaptainAmerica_Attack1_02
+    21300266: CaptainAmerica_Attack1_03
+    21300268: CaptainAmerica 01_134
+    21300270: CaptainAmerica_Kick_00
+    21300272: CaptainAmerica_Kick_01
+    21300274: CaptainAmerica_Kick_02
+    21300276: CaptainAmerica_Kick_03
+    21300278: CaptainAmerica 01_139
+    21300280: CaptainAmerica 01_140
+    21300282: CaptainAmerica 01_141
+    21300284: CaptainAmerica 01_142
+    21300286: CaptainAmerica 01_143
+    21300288: CaptainAmerica 01_144
+    21300290: CaptainAmerica 01_145
+    21300292: CaptainAmerica 01_146
+    21300294: CaptainAmerica 01_147
+    21300296: CaptainAmerica 01_148
+    21300298: CaptainAmerica 01_149
+    21300300: CaptainAmerica 01_150
+    21300302: CaptainAmerica 01_151
+    21300304: CaptainAmerica 01_152
+    21300306: CaptainAmerica 01_153
+    21300308: CaptainAmerica 01_154
+    21300310: CaptainAmerica 01_155
+    21300312: CaptainAmerica 01_156
+    21300314: CaptainAmerica 01_157
+    21300316: CaptainAmerica 01_158
+    21300318: CaptainAmerica 01_159
+    21300320: CaptainAmerica 01_160
+    21300322: CaptainAmerica 01_161
+    21300324: CaptainAmerica 01_162
+    21300326: CaptainAmerica 01_163
+    21300328: CaptainAmerica 01_164
+    21300330: CaptainAmerica 01_165
+    21300332: CaptainAmerica 01_166
+    21300334: CaptainAmerica 01_167
+    21300336: CaptainAmerica_SmallPicture
+    21300338: CaptainAmerica_Kick_Shield_00
+    21300340: CaptainAmerica_Throw_04
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CaptainAmerica_SmallPicture
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2534
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CaptainAmerica_Shield_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2438
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 35.5}
+        - {x: -26.5, y: 18.5}
+        - {x: -26.5, y: -43.5}
+        - {x: 22.5, y: -43.5}
+        - {x: 26.5, y: -31.5}
+        - {x: 26.5, y: 35.5}
+    - name: CaptainAmerica_Shield_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2441
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 35.5}
+        - {x: -26.5, y: 18.5}
+        - {x: -26.5, y: -43.5}
+        - {x: 22.5, y: -43.5}
+        - {x: 26.5, y: -31.5}
+        - {x: 26.5, y: 35.5}
+    - name: CaptainAmerica_Shield_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2442
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -43.5}
+        - {x: 13.5, y: -43.5}
+        - {x: 20.5, y: -42.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 26.5, y: -19.5}
+        - {x: 26.5, y: 23.5}
+        - {x: 9.5, y: 34.5}
+        - {x: -7.5, y: 34.5}
+        - {x: -26.5, y: 20.5}
+        - {x: -26.5, y: -43.5}
+        - {x: -12.5, y: -43.5}
+        - {x: -3.5, y: -30.5}
+        - {x: -1.5, y: -16.5}
+        - {x: -2.5, y: -33.5}
+    - name: CaptainAmerica_Shield_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2440
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 35.5}
+        - {x: -26.5, y: 18.5}
+        - {x: -26.5, y: -43.5}
+        - {x: 22.5, y: -43.5}
+        - {x: 26.5, y: -31.5}
+        - {x: 26.5, y: 35.5}
+    - name: CaptainAmerica_Shield_Walk_00
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2331
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -43.5}
+        - {x: 25.5, y: -43.5}
+        - {x: 25.5, y: 7.5}
+        - {x: 20.5, y: 41.5}
+        - {x: 17.5, y: 43.5}
+        - {x: -5.5, y: 43.5}
+        - {x: -14.5, y: 21.5}
+    - name: CaptainAmerica_Shield_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2331
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 43.5}
+        - {x: 1.5, y: 43.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -17.5, y: -17.5}
+        - {x: -9.5, y: -43.5}
+        - {x: 20.5, y: -43.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 26.5, y: 10.5}
+        - {x: 19.5, y: 40.5}
+    - name: CaptainAmerica_Shield_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2333
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 5.5}
+        - {x: 21.5, y: 12.5}
+        - {x: 12.5, y: 39.5}
+        - {x: 10.5, y: 42.5}
+        - {x: 1.5, y: 42.5}
+        - {x: -2.5, y: 41.5}
+        - {x: -13.5, y: 32.5}
+        - {x: -26.5, y: 15.5}
+        - {x: -26.5, y: -38.5}
+        - {x: -17.5, y: -43.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 26.5, y: -41.5}
+        - {x: 22.5, y: -37.5}
+        - {x: 26.5, y: -10.5}
+    - name: CaptainAmerica_Shield_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2330
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 43.5}
+        - {x: 1.5, y: 43.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -14.5, y: -4.5}
+        - {x: -8.5, y: -10.5}
+        - {x: -3.5, y: -12.5}
+        - {x: -1.5, y: -12.5}
+        - {x: -3.5, y: -12.5}
+        - {x: -16.5, y: -19.5}
+        - {x: -16.5, y: -23.5}
+        - {x: -13.5, y: -43.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 26.5, y: 8.5}
+        - {x: 17.5, y: 41.5}
+    - name: CaptainAmerica_Shield_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2331
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 43.5}
+        - {x: -3.5, y: 34.5}
+        - {x: -3.5, y: -39.5}
+        - {x: -1.5, y: -43.5}
+        - {x: 23.5, y: -43.5}
+        - {x: 26.5, y: -42.5}
+        - {x: 26.5, y: 33.5}
+        - {x: 22.5, y: 43.5}
+    - name: CaptainAmerica_Shield_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2331
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 42.5}
+        - {x: -9.5, y: 42.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -21.5, y: -43.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 26.5, y: 17.5}
+        - {x: 13.5, y: 40.5}
+    - name: CaptainAmerica_Shield_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2327
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 43.5}
+        - {x: -11.5, y: 13.5}
+        - {x: -11.5, y: -43.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 26.5, y: 43.5}
+    - name: CaptainAmerica_Shield_JumpAttack_00
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2338
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 32.5}
+        - {x: -6, y: 17.5}
+        - {x: -6, y: -28.5}
+        - {x: 2, y: -32.5}
+        - {x: 22, y: -32.5}
+        - {x: 38, y: -18.5}
+        - {x: 38, y: 25.5}
+        - {x: 29, y: 32.5}
+    - name: CaptainAmerica_Shield_JumpAttack_01
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2341
+        width: 76
+        height: 65
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 24.5}
+        - {x: 0, y: 16.5}
+        - {x: 0, y: -10.5}
+        - {x: 1, y: -12.5}
+        - {x: 7, y: -9.5}
+        - {x: 11, y: -5.5}
+        - {x: 11, y: -2.5}
+        - {x: 13, y: -10.5}
+        - {x: 6, y: -18.5}
+        - {x: 5, y: -32.5}
+        - {x: 51, y: -32.5}
+        - {x: 76, y: -26.5}
+        - {x: 76, y: 10.5}
+        - {x: 44, y: 24.5}
+    - name: CaptainAmerica_TheShield_Vertical
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2280
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CaptainAmerica_Shiled_Block_00
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2202
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: -23.5}
+        - {x: -1.5, y: -28.5}
+        - {x: 12.5, y: -34.5}
+        - {x: 20.5, y: -34.5}
+        - {x: 25.5, y: -18.5}
+        - {x: 25.5, y: 34.5}
+        - {x: 8.5, y: 34.5}
+        - {x: 2.5, y: 31.5}
+        - {x: -4.5, y: 20.5}
+        - {x: -26.5, y: -20.5}
+        - {x: -26.5, y: -32.5}
+        - {x: -23.5, y: -34.5}
+        - {x: -11.5, y: -34.5}
+        - {x: -11.5, y: -31.5}
+        - {x: -1.5, y: -25.5}
+        - {x: 6.5, y: -17.5}
+    - name: CaptainAmerica_Shiled_Block_01
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2203
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 22.5}
+        - {x: 7.5, y: 20.5}
+        - {x: -37.5, y: -19.5}
+        - {x: -37.5, y: -34.5}
+        - {x: -0.5, y: -34.5}
+        - {x: 25.5, y: -31.5}
+        - {x: 37.5, y: -16.5}
+        - {x: 37.5, y: 22.5}
+    - name: CaptainAmerica_TheShield_Horizontal
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2125
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CaptainAmerica_Shield_Attack1_00
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1993
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 29.5}
+        - {x: 24.5, y: 35.5}
+        - {x: -7.5, y: 35.5}
+        - {x: -19.5, y: 32.5}
+        - {x: -19.5, y: -43.5}
+        - {x: -3.5, y: -43.5}
+        - {x: 6.5, y: -28.5}
+        - {x: 21.5, y: -43.5}
+        - {x: 38.5, y: -43.5}
+    - name: CaptainAmerica_Shield_Attack1_01
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1992
+        width: 77
+        height: 87
+      alignment: 9
+      pivot: {x: 0.21250223, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.637329, y: 34.5}
+        - {x: -10.362671, y: 31.5}
+        - {x: -16.36267, y: 22.5}
+        - {x: -16.36267, y: -43.5}
+        - {x: 60.63733, y: -43.5}
+        - {x: 60.63733, y: 17.5}
+        - {x: 30.63733, y: 34.5}
+    - name: CaptainAmerica_Shield_Attack1_02
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1991
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -41.5}
+        - {x: 37.5, y: 36.5}
+        - {x: -24.5, y: 36.5}
+        - {x: -24.5, y: -43.5}
+        - {x: -7.5, y: -43.5}
+        - {x: 1.5, y: -29.5}
+        - {x: 16.5, y: -43.5}
+        - {x: 34.5, y: -43.5}
+    - name: CaptainAmerica_Shield_Attack1_03
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1990
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 36.5}
+        - {x: 2.5, y: 36.5}
+        - {x: -17.5, y: 26.5}
+        - {x: -17.5, y: -43.5}
+        - {x: 29.5, y: -43.5}
+        - {x: 35.5, y: -19.5}
+        - {x: 35.5, y: 21.5}
+    - name: CaptainAmerica_Shield_Damage_00
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1987
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 30.5}
+        - {x: 8.5, y: 33.5}
+        - {x: -32.5, y: 33.5}
+        - {x: -35.5, y: 19.5}
+        - {x: -35.5, y: -18.5}
+        - {x: -20.5, y: -43.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 28.5, y: -36.5}
+        - {x: 31.5, y: -22.5}
+    - name: CaptainAmerica_Shield_Death_01
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1997
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 10.5}
+        - {x: -44.5, y: 8.5}
+        - {x: -44.5, y: -39.5}
+        - {x: -39.5, y: -43.5}
+        - {x: 6.5, y: -43.5}
+        - {x: 29.5, y: -37.5}
+        - {x: 29.5, y: 1.5}
+        - {x: -1.5, y: 10.5}
+    - name: CaptainAmerica_Shield_Death_02
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2012
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -9.5}
+        - {x: -44.5, y: -22.5}
+        - {x: -44.5, y: -41.5}
+        - {x: -39.5, y: -43.5}
+        - {x: 38.5, y: -43.5}
+        - {x: 44.5, y: -34.5}
+        - {x: 44.5, y: -24.5}
+        - {x: 34.5, y: -9.5}
+    - name: CaptainAmerica_Throw_00
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1839
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 27.5}
+        - {x: -38, y: 19.5}
+        - {x: -40, y: 12.5}
+        - {x: -40, y: -11.5}
+        - {x: -34, y: -13.5}
+        - {x: -25, y: -13.5}
+        - {x: -28, y: -43.5}
+        - {x: 29, y: -43.5}
+        - {x: 38, y: -19.5}
+        - {x: 38, y: 18.5}
+        - {x: 7, y: 27.5}
+    - name: CaptainAmerica_Throw_01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1837
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 27.5}
+        - {x: -38, y: 27.5}
+        - {x: -40, y: 22.5}
+        - {x: -40, y: -32.5}
+        - {x: -35, y: -42.5}
+        - {x: -34, y: -43.5}
+        - {x: 31, y: -43.5}
+        - {x: 40, y: -24.5}
+        - {x: 40, y: 13.5}
+    - name: CaptainAmerica_Throw_02
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1843
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -43.5}
+        - {x: 34, y: -42.5}
+        - {x: 34, y: 11.5}
+        - {x: 30, y: 21.5}
+        - {x: 11, y: 21.5}
+        - {x: -20, y: 2.5}
+        - {x: -27, y: -24.5}
+        - {x: -27, y: -43.5}
+        - {x: -12, y: -43.5}
+        - {x: 2, y: -36.5}
+        - {x: 8, y: -42.5}
+        - {x: 11, y: -43.5}
+    - name: CaptainAmerica_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1575
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -43.5}
+        - {x: 24.5, y: -39.5}
+        - {x: 24.5, y: -28.5}
+        - {x: 21.5, y: -10.5}
+        - {x: 8.5, y: 2.5}
+        - {x: 8.5, y: 5.5}
+        - {x: 8.5, y: 3.5}
+        - {x: 13.5, y: -0.5}
+        - {x: 24.5, y: -4.5}
+        - {x: 24.5, y: 28.5}
+        - {x: 22.5, y: 36.5}
+        - {x: -5.5, y: 36.5}
+        - {x: -22.5, y: 19.5}
+        - {x: -24.5, y: 9.5}
+        - {x: -26.5, y: -16.5}
+        - {x: -26.5, y: -43.5}
+        - {x: -11.5, y: -43.5}
+        - {x: -3.5, y: -33.5}
+        - {x: -3.5, y: -38.5}
+        - {x: -0.5, y: -43.5}
+    - name: CaptainAmerica_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1580
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -34.5}
+        - {x: 1.5, y: -43.5}
+        - {x: 12.5, y: -43.5}
+        - {x: 18.5, y: -41.5}
+        - {x: 25.5, y: -39.5}
+        - {x: 25.5, y: 29.5}
+        - {x: 13.5, y: 35.5}
+        - {x: -9.5, y: 35.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -26.5, y: -43.5}
+        - {x: -15.5, y: -43.5}
+        - {x: -12.5, y: -40.5}
+        - {x: -5.5, y: -31.5}
+        - {x: -4.5, y: -17.5}
+    - name: CaptainAmerica_JumpLand_00
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1335
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 39}
+        - {x: 6, y: 42}
+        - {x: 2, y: 46}
+        - {x: -3, y: 49}
+        - {x: -22, y: 49}
+        - {x: -22, y: -34}
+        - {x: -21, y: -49}
+        - {x: 7, y: -49}
+        - {x: 22, y: -31}
+        - {x: 22, y: 49}
+        - {x: 19, y: 49}
+        - {x: 9, y: 42}
+    - name: CaptainAmerica_JumpLand_01
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1347
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38}
+        - {x: -22, y: 33}
+        - {x: -22, y: -42}
+        - {x: -16, y: -49}
+        - {x: 8, y: -49}
+        - {x: 16, y: -48}
+        - {x: 16, y: 30}
+        - {x: 0, y: 38}
+    - name: CaptainAmerica_JumpLand_02
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1350
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -22, y: 19}
+        - {x: -22, y: -39}
+        - {x: -16, y: -49}
+        - {x: 0, y: -49}
+        - {x: 17, y: -19}
+        - {x: 17, y: 19}
+        - {x: 10, y: 32}
+    - name: CaptainAmerica_JumpAttack_00
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1360
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 22.5}
+        - {x: 19, y: 18.5}
+        - {x: 20, y: 30.5}
+        - {x: 18, y: 32.5}
+        - {x: 5, y: 32.5}
+        - {x: -3, y: 25.5}
+        - {x: -3, y: -32.5}
+        - {x: 38, y: -32.5}
+        - {x: 38, y: 30.5}
+        - {x: 23, y: 26.5}
+    - name: CaptainAmerica_JumpAttack_01
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1365
+        width: 76
+        height: 56
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 18}
+        - {x: 28, y: 25}
+        - {x: 27, y: 28}
+        - {x: 14, y: 28}
+        - {x: 0, y: 22}
+        - {x: 0, y: -5}
+        - {x: 8, y: -6}
+        - {x: 11, y: -1}
+        - {x: 11, y: 2}
+        - {x: 13, y: -6}
+        - {x: 6, y: -14}
+        - {x: 5, y: -28}
+        - {x: 76, y: -28}
+        - {x: 76, y: 6}
+        - {x: 66, y: 26}
+        - {x: 57, y: 28}
+        - {x: 28, y: 28}
+        - {x: 29, y: 21}
+    - name: CaptainAmerica_Shield_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1192
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 43}
+        - {x: -21.5, y: -40}
+        - {x: -17.5, y: -43}
+        - {x: 5.5, y: -43}
+        - {x: 20.5, y: -7}
+        - {x: 20.5, y: 43}
+    - name: CaptainAmerica_Shield_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1233
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 40.5}
+        - {x: -21.5, y: 24.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -15.5, y: -40.5}
+        - {x: 3.5, y: -40.5}
+        - {x: 19.5, y: -10.5}
+        - {x: 19.5, y: 29.5}
+        - {x: 14.5, y: 40.5}
+    - name: CaptainAmerica_Shield_Land_00
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1174
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 43.5}
+        - {x: -21.5, y: 43.5}
+        - {x: -21.5, y: -39.5}
+        - {x: -13.5, y: -43.5}
+        - {x: -6.5, y: -43.5}
+        - {x: -2.5, y: -41.5}
+        - {x: -3.5, y: -37.5}
+        - {x: 6.5, y: -31.5}
+        - {x: 21.5, y: -5.5}
+    - name: CaptainAmerica_Shield_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1111
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 54}
+        - {x: -25.5, y: 54}
+        - {x: -25.5, y: -20}
+        - {x: -19.5, y: -54}
+        - {x: 6.5, y: -54}
+        - {x: 15.5, y: -46}
+        - {x: 25.5, y: -32}
+        - {x: 25.5, y: 32}
+        - {x: 22.5, y: 36}
+    - name: CaptainAmerica_Shield_Land_01
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1076
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 54}
+        - {x: -25.5, y: -24}
+        - {x: -13.5, y: -54}
+        - {x: 23.5, y: -54}
+        - {x: 25.5, y: -52}
+        - {x: 25.5, y: 46}
+        - {x: 2.5, y: 54}
+    - name: CaptainAmerica_Shield_Land_02
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1075
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 18}
+        - {x: -26, y: 5}
+        - {x: -26, y: -54}
+        - {x: 26, y: -54}
+        - {x: 26, y: -6}
+        - {x: 12, y: 18}
+    - name: CaptainAmerica_Shield_Attack2_00
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 957
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -47}
+        - {x: 33, y: -47}
+        - {x: 33, y: 18}
+        - {x: 22, y: 31}
+        - {x: 17, y: 33}
+        - {x: -1, y: 33}
+        - {x: -35, y: 20}
+        - {x: -35, y: -22}
+        - {x: -32, y: -30}
+        - {x: -22, y: -47}
+        - {x: -4, y: -47}
+        - {x: 0, y: -40}
+        - {x: 4, y: -31}
+        - {x: 12, y: -46}
+    - name: CaptainAmerica_Shield_Attack2_01
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 959
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 47}
+        - {x: 1, y: 47}
+        - {x: -4, y: 32}
+        - {x: -4, y: 29}
+        - {x: -21, y: -33}
+        - {x: -21, y: -46}
+        - {x: -19, y: -47}
+        - {x: -4, y: -47}
+        - {x: 4, y: -35}
+        - {x: 13, y: -47}
+        - {x: 35, y: -47}
+    - name: CaptainAmerica_Shield_Attack2_02
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 962
+        width: 72
+        height: 94
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 33}
+        - {x: 44, y: 33}
+        - {x: 22, y: 23}
+        - {x: 4, y: 14}
+        - {x: 0, y: -27}
+        - {x: 0, y: -46}
+        - {x: 1, y: -47}
+        - {x: 68, y: -47}
+        - {x: 72, y: -33}
+        - {x: 72, y: 27}
+    - name: CaptainAmerica_Shield_Attack2_03
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 963
+        width: 72
+        height: 94
+      alignment: 9
+      pivot: {x: 0.16, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.48001, y: 26}
+        - {x: 10.480011, y: 26}
+        - {x: -1.519989, y: 20}
+        - {x: -9.519989, y: -9}
+        - {x: -9.519989, y: -47}
+        - {x: 53.48001, y: -47}
+        - {x: 60.48001, y: -38}
+        - {x: 60.48001, y: -6}
+        - {x: 50.48001, y: 25}
+    - name: CaptainAmerica_Shield_Attack2_04
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 964
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 30}
+        - {x: -24, y: -9}
+        - {x: -24, y: -47}
+        - {x: 33, y: -47}
+        - {x: 33, y: -5}
+        - {x: 25, y: 30}
+    - name: CaptainAmerica_Shield_Kick_01
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 865
+        width: 75
+        height: 94
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 28}
+        - {x: 7, y: 28}
+        - {x: 0, y: 15}
+        - {x: 0, y: -44}
+        - {x: 8, y: -47}
+        - {x: 60, y: -47}
+        - {x: 60, y: 21}
+        - {x: 44, y: 27}
+    - name: CaptainAmerica_Shield_Kick_02
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 866
+        width: 75
+        height: 94
+      alignment: 9
+      pivot: {x: 0.1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 28}
+        - {x: -7.5, y: 18}
+        - {x: -7.5, y: -13}
+        - {x: 2.5, y: -47}
+        - {x: 28.5, y: -47}
+        - {x: 41.5, y: -41}
+        - {x: 67.5, y: -3}
+        - {x: 67.5, y: 16}
+        - {x: 19.5, y: 28}
+    - name: CaptainAmerica_Shield_Kick_03
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 865
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 31}
+        - {x: -19.5, y: -22}
+        - {x: -7.5, y: -47}
+        - {x: 18.5, y: -47}
+        - {x: 37.5, y: -18}
+        - {x: 37.5, y: 1}
+        - {x: 2.5, y: 31}
+    - name: CaptainAmerica_Walk_00
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 757
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 43.5}
+        - {x: -21.5, y: 43.5}
+        - {x: -26.5, y: 31.5}
+        - {x: -26.5, y: -43.5}
+        - {x: -0.5, y: -43.5}
+        - {x: 0.5, y: -40.5}
+        - {x: 0.5, y: 14.5}
+        - {x: -4.5, y: 41.5}
+    - name: CaptainAmerica_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 758
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -43.5}
+        - {x: 20.5, y: 3.5}
+        - {x: 7.5, y: 40.5}
+        - {x: 4.5, y: 42.5}
+        - {x: -15.5, y: 42.5}
+        - {x: -26.5, y: 4.5}
+        - {x: -26.5, y: -41.5}
+        - {x: -22.5, y: -43.5}
+        - {x: -9.5, y: -43.5}
+        - {x: -7.5, y: -32.5}
+        - {x: 3.5, y: -43.5}
+    - name: CaptainAmerica_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 763
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -43.5}
+        - {x: 11.5, y: -43.5}
+        - {x: 11.5, y: 15.5}
+        - {x: 8.5, y: 42.5}
+        - {x: 6.5, y: 43.5}
+        - {x: -16.5, y: 43.5}
+        - {x: -26.5, y: 15.5}
+    - name: CaptainAmerica_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 756
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 43.5}
+        - {x: -26.5, y: 37.5}
+        - {x: -26.5, y: -43.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 10.5, y: 43.5}
+    - name: CaptainAmerica_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 759
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 43.5}
+        - {x: -12.5, y: 43.5}
+        - {x: -26.5, y: 33.5}
+        - {x: -26.5, y: -43.5}
+        - {x: 20.5, y: -43.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 6.5, y: 41.5}
+    - name: CaptainAmerica_Attack1_00
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 39}
+        - {x: -14, y: 39}
+        - {x: -18, y: 28}
+        - {x: -18, y: -39}
+        - {x: -4, y: -39}
+        - {x: 5, y: -24}
+        - {x: 20, y: -39}
+        - {x: 37, y: -39}
+    - name: CaptainAmerica_Attack1_01
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 545
+        width: 74
+        height: 78
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.199997, y: 39}
+        - {x: -7.800003, y: 34}
+        - {x: -8.800003, y: 15}
+        - {x: -2.800003, y: 9}
+        - {x: -14.800003, y: -20}
+        - {x: -14.800003, y: -39}
+        - {x: 58.199997, y: -39}
+        - {x: 59.199997, y: -32}
+        - {x: 59.199997, y: 23}
+        - {x: 36.199997, y: 39}
+    - name: CaptainAmerica_Attack1_02
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 541
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 39}
+        - {x: -5, y: 39}
+        - {x: -20, y: 18}
+        - {x: -22, y: 12}
+        - {x: -22, y: -39}
+        - {x: 34, y: -39}
+        - {x: 36, y: -35}
+        - {x: 36, y: 32}
+    - name: CaptainAmerica_Attack1_03
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 539
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -39}
+        - {x: 33, y: -39}
+        - {x: 37, y: -31}
+        - {x: 37, y: 30}
+        - {x: 33, y: 39}
+        - {x: 7, y: 39}
+        - {x: -15, y: 22}
+        - {x: -15, y: -39}
+        - {x: 0, y: -39}
+        - {x: 8, y: -28}
+        - {x: 9, y: -13}
+        - {x: 10, y: -34}
+    - name: CaptainAmerica_Kick_00
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 452
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 35.5}
+        - {x: -13.5, y: 33.5}
+        - {x: -30.5, y: -26.5}
+        - {x: -30.5, y: -36.5}
+        - {x: -17.5, y: -36.5}
+        - {x: -8.5, y: -34.5}
+        - {x: -4.5, y: -20.5}
+        - {x: -0.5, y: -26.5}
+        - {x: 7.5, y: -36.5}
+        - {x: 23.5, y: -36.5}
+        - {x: 23.5, y: 6.5}
+        - {x: 10.5, y: 35.5}
+    - name: CaptainAmerica_Kick_01
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 453
+        width: 75
+        height: 73
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 30.5}
+        - {x: 17, y: 36.5}
+        - {x: -13, y: 36.5}
+        - {x: -15, y: 34.5}
+        - {x: -15, y: -14.5}
+        - {x: -7, y: -36.5}
+        - {x: 25, y: -36.5}
+        - {x: 44, y: 2.5}
+        - {x: 44, y: 29.5}
+        - {x: 43, y: 30.5}
+    - name: CaptainAmerica_Kick_02
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 453
+        width: 75
+        height: 73
+      alignment: 9
+      pivot: {x: 0.1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 36.5}
+        - {x: -7.5, y: 35.5}
+        - {x: -7.5, y: -30.5}
+        - {x: -5.5, y: -36.5}
+        - {x: 33.5, y: -36.5}
+        - {x: 43.5, y: -30.5}
+        - {x: 67.5, y: 7.5}
+        - {x: 67.5, y: 26.5}
+        - {x: 25.5, y: 36.5}
+    - name: CaptainAmerica_Kick_03
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 451
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 38}
+        - {x: -26, y: 34}
+        - {x: -26, y: 1}
+        - {x: -14, y: -38}
+        - {x: 12, y: -38}
+        - {x: 26, y: -21}
+        - {x: 26, y: 4}
+        - {x: -10, y: 38}
+    - name: CaptainAmerica_Throw_03
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1584
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -31.5}
+        - {x: 31, y: 23.5}
+        - {x: -5, y: 23.5}
+        - {x: -40, y: 7.5}
+        - {x: -40, y: -43.5}
+        - {x: -23, y: -43.5}
+        - {x: -12, y: -36.5}
+        - {x: -11, y: -43.5}
+        - {x: 15, y: -43.5}
+    - name: CaptainAmerica_Shield_Kick_00
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 863
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -27}
+        - {x: -18.5, y: -47}
+        - {x: 35.5, y: -47}
+        - {x: 35.5, y: -2}
+        - {x: 29.5, y: 18}
+        - {x: 13.5, y: 25}
+        - {x: -1.5, y: 25}
+        - {x: -3.5, y: 24}
+    - name: CaptainAmerica_Throw_04
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 649
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -46}
+        - {x: 42.5, y: -31}
+        - {x: 42.5, y: 9}
+        - {x: 34.5, y: 21}
+        - {x: 2.5, y: 21}
+        - {x: -42.5, y: 0}
+        - {x: -42.5, y: -46}
+        - {x: -25.5, y: -46}
+        - {x: -14.5, y: -39}
+        - {x: -7.5, y: -44}
+        - {x: -3.5, y: -46}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
